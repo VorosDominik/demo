@@ -15,8 +15,8 @@ public class JavaApplication3 {
         }
     }
 
-    private static void metodus() {
-    system.out.println("alma")
+    private void metodus() {
+  
     }
     
 }
