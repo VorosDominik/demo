@@ -16,7 +16,7 @@ public class JavaApplication3 {
     }
 
     private static void metodus() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    system.out.println("alma")
     }
     
 }
